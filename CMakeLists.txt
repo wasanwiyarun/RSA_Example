@@ -2,7 +2,7 @@
 cmake_minimum_required(VERSION 3.10)
 
 # Project name and version
-project(AESExample VERSION 1.0)
+project(RSAExample VERSION 1.0)
 
 # Set the C standard to C11 (optional, you can adjust if needed)
 set(CMAKE_C_STANDARD 11)
